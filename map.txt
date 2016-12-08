@@ -1,0 +1,24 @@
+table{
+  view
+  dataDonasi
+  dataPeminjaman
+  denda
+  //statistik
+}
+form{
+  donasi
+  edit
+  insert
+  kembali
+  peminjaman
+  //bayarDenda
+}
+load{
+  delete
+  postEdit
+  postInsert
+  //postPinjam
+  //submitDonasi
+  //postKembali
+  //postBayarDenda
+}
