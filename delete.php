@@ -1,3 +1,0 @@
-<?php
-  // reserved for css
-?>

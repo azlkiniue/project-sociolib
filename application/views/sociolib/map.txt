@@ -1,0 +1,30 @@
+table{
+  view
+  dataDonasi
+  dataPeminjaman
+  denda.modal.
+  statistik
+}
+form{
+  donasi
+  edit
+  insert
+  kembali
+  peminjaman
+}
+load{ inibelum
+  delete.
+  postEdit.
+  postInsert.
+  postPinjam.
+  submitDonasi.
+  postKembali.
+  postBayarDenda.
+}
+
+statistik tabel{
+  jumlah total denda
+  jumlah denda terbayar
+
+}
+warna chart

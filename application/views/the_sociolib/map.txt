@@ -1,0 +1,30 @@
+table{
+  view
+  dataDonasi
+  dataPeminjaman
+  denda
+  statistik
+  contributor
+}
+form{
+  donasi
+  edit
+  insert
+  kembali
+  peminjaman
+}
+load{
+  delete.
+  postEdit.
+  postInsert.
+  postPinjam.
+  submitDonasi.
+  postKembali.
+  postBayarDenda.
+}
+
+statistik tabel{
+  jumlah total denda
+  jumlah denda terbayar
+
+}
